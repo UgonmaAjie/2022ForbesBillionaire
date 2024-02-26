@@ -27,8 +27,9 @@ So many insights but will share just a few:
 The list comprised of 2600 Billionaires from 75 Countries and 18 Industries with an Average NetWorth of over $4 Billion.
 ![](Forbes1.JPG)
 
-The Countries with the highest Billionaires is United States having 719 billionaires second to China with 515 and 
-the Richest Industry is Automotive with an Average NetWorth of over $8 billion of which Elon Musk is in.
+The Countries with the highest Billionaires is United States having 719 billionaires second to China with 515.
+The Richest Industry is Automotive with an Average NetWorth of over $8 billion of which Elon Musk is in.
+
 ---
 Elon tops the list with as the richest Forbes Billionaire' here is the list of Top 5 Billionaires with their NetWorth;
 
