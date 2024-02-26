@@ -25,7 +25,7 @@ This is a Microsoft Excel project on **2022 Forbes Analysis**. The project is to
 So many insights but will share just a few:
 
 The list comprised of 2600 Billionaires from 75 Countries and 18 Industries with an Average NetWorth of over $4 Billion.
-![](Forbes1.jpg)
+![](Forbes1.JPG)
 
 Elon tops the list with as the richest Forbes Billionaire' here is the list of Top 5 Billionaires with their NetWorth;
 
@@ -39,7 +39,7 @@ Elon tops the list with as the richest Forbes Billionaire' here is the list of T
 
 5. Warren Buffet $118B
 
-![](Top5.jpg)
+![](Top5.JPG)
 
 As a NIgerian, I had to use the Country slicer and we have 3 Nigerians topping the list is 
 1. Aliko Dangote ($14B)
@@ -48,7 +48,7 @@ As a NIgerian, I had to use the Country slicer and we have 3 Nigerians topping t
 
 3. and Abdulsamad Rabiu ($6.9B).
 
-![](ForbesNigeria.jpg)
+![](ForbesNigeria.JPG)
 
 The Richest Industry is Automotive with an Average NetWorth of over $8 billion of which Elon Musk is in.
 
