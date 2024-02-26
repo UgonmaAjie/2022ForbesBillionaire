@@ -1,5 +1,5 @@
 # 2022ForbesBillionaire
-![](github_Forbesimage.jpg)
+![](github_Forbesimage.jpeg)
 
 
 So many insights but will share just a few:
